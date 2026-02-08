@@ -17,3 +17,8 @@ python run_pipeline.py
 outputs/figures
 outputs/reports
 outputs/models
+
+
+## Author Name - Khushbu Kapade
+# Student ID - 5755289
+
