@@ -1,4 +1,3 @@
-# FAIDM-KHUSHBU
 # Diabetes Prediction and Clustering (CDC Dataset) — binary_drop1
 
 This project uses the **CDC Diabetes dataset** to do two tasks:
@@ -67,5 +66,6 @@ So **Cluster 1 has higher diabetes proportion**.
 
 ---
 
-## Folder structure
+# Author Name - Khushbu Kapade
+# Student ID : 5755289
 
