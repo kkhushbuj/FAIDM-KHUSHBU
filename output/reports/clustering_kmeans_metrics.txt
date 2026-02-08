@@ -1,0 +1,7 @@
+Selected k: 2
+Silhouette (sample-based): 0.2219 (higher better)
+Davies-Bouldin (full): 2.4564 (lower better)
+Calinski-Harabasz (full): 31640.39 (higher better)
+Silhouette sample size: 10000
+PCA plot sample size: 20000
+Clustering algorithm: MiniBatchKMeans (used for speed on large dataset).

@@ -1,0 +1,24 @@
+Model: RandomForest
+Problem: binary_drop1 (0=non-diabetic, 1=diabetic)
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0     0.9099    0.8989    0.9044     42741
+           1     0.4304    0.4619    0.4456      7069
+
+    accuracy                         0.8369     49810
+   macro avg     0.6702    0.6804    0.6750     49810
+weighted avg     0.8419    0.8369    0.8393     49810
+
+Balanced accuracy: 0.6804
+Macro F1:         0.6750
+
+Probability sample (first 5 rows):
+[[0.94406044 0.05593956]
+ [0.84407503 0.15592497]
+ [0.9856679  0.0143321 ]
+ [0.99237558 0.00762442]
+ [0.85814489 0.14185511]]
+ROC-AUC: 0.8227
+PR-AUC:  0.4264
