@@ -65,7 +65,10 @@ Cluster vs target distribution (important result):
 So **Cluster 1 has higher diabetes proportion**.
 
 ---
-
-# Author Name - Khushbu Kapade
-# Student ID : 5755289
+## How to run 
+### 1) Create and activate a virtual environment (recommended)
+```powershell
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+---
 
