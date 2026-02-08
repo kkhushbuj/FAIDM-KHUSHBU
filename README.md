@@ -70,5 +70,21 @@ So **Cluster 1 has higher diabetes proportion**.
 ```powershell
 python -m venv venv
 .\venv\Scripts\Activate.ps1
----
+
+```
+## Install packages 
+```
+pip install -r requirements.txt
+```
+## place the dataset
+### put the csv here :
+```
+data/raw/CDC Diabetes Dataset.csv
+
+```
+## Run the project 
+### From the project root 
+```
+python run_pipeline.py
+```
 
